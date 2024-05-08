@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Deep Learning<br>🌱 I’m currently learning AI<br>👯 I’m looking to collaborate on Machine Learning
+🔭 I’m currently working on Deep Learning, Data Sciende<br>🌱 I’m currently learning AI<br>👯 I’m looking to collaborate on Machine Learning 📲I'm trying to do something with flutter.
 
 
 ## 🌐 Socials:
